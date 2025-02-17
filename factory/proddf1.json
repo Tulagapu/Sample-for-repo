@@ -1,0 +1,9 @@
+{
+	"name": "proddf1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "90380dc0-5555-45de-874e-0a888778916c",
+		"tenantId": "651a4cce-f5dc-40c2-b2de-130af64fa41e"
+	}
+}
